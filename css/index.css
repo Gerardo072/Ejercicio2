@@ -1,0 +1,21 @@
+.login{
+    background-image: url(https://raw.githubusercontent.com/jefuentes80/ejercicio-2-PCD/main/ZxAHqBw.png);
+    margin: 1rem 1rem;
+}
+
+.close{
+    font-size: 1.7rem;
+    font-weight: 400;
+    color: var(--colorTextClaro);
+}
+
+.titulo{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4.5rem;
+    font-weight: 800;
+}
+
+.titulo_decorado{
+    font-size: 2rem;
+    font-weight: 600;
+}
