@@ -5,17 +5,26 @@
 }
 
 html{
-    font-size: 10px; /*Tamaño general*/
-    font-family: "Roboto", sans-serif;
-}
+
+    /* TAMAÑO ESTABLECIDO PARA UTILIZAR
+    LAS UNIDADES rem*/
+    font-size: 10px; /* Tamaño general */
+
+    /* TIPOGRAFIA PRINCIPAL DEL SITIO WEB */
+    font-family: 'Roboto', sans-serif;
+} 
 
 :root{
     /* COLORES */
-    --colorTextoClaro: rgba(60, 60, 67, 0.6);
-    --colorBlack:----- #000000;
+    --colorTextClaro: rgba(60, 60, 67, 0.6);
+    --colorBlack: #000000;
     --colorBackground: #F2F2F7;
-    --colorBlue:------ #007AFF;
+    --colorBlue: #007AFF;
 
+    /* TIPOGRAFIA */
     --size17: 17px;
     --size15: 15px;
+    
 }
+
+

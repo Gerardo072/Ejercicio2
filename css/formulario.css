@@ -1,15 +1,16 @@
-.form.flight{
+
+.form-vuelo{
     display: flex;
-    flex-direction: column;
+    flex-direction: column;   
 }
 
-.form.flight label{
-    color: var(--colorBlack);
+.form-vuelo label {
+    color: var(--colorTextClaro);
     font-size: 1.5rem;
     margin-top: 6rem;
 }
 
-#flight{
+#vuelo{
     background-color: #F2F2F7;
     padding: 1.1rem 1.6rem;
     margin-top: 1.6rem;
@@ -19,7 +20,7 @@
     font-size: var(--size17);
 }
 
-#button{
+#boton{
     height: 4.4rem;
     background-color: var(--colorBlue);
     color: #ffffff;
@@ -32,9 +33,10 @@
     flex-direction: row;
     align-items: center;
     justify-content: center;
+
 }
 
-#button img{
-    width: 2.1rem;
+#boton img{
     margin-left: 1rem;
-}
+}   
+
